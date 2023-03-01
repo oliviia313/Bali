@@ -54,6 +54,10 @@ body {
 	line-height: 19px;
 }
 
+.menu__item:hover {
+	opacity: .7;
+}
+
 .main__wrap {
 	display: flex;
 }
@@ -101,6 +105,10 @@ body {
 	outline: none;
 	border-radius: none;
 	cursor: pointer;
+}
+
+.info__btn:hover {
+	opacity: .7;
 }
 
 .images {
